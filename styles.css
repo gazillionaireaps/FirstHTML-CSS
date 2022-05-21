@@ -1,0 +1,157 @@
+
+.intro{background-color: #B6FFCE;
+padding: 55px;}
+h1{color: #66bfbf;}
+h2{color: #66bfbf;
+font-size: 2rem;}
+h3{color: #11999E;
+font-size: 25px;}
+a{color: #11999E;}
+/*background-image: url("background.png");
+above tag can be used to insert any kind of image to your website.
+This kinda image can either be shown as url link of any image from internet or any
+of your downloaded image which you have added here as a file like background.png.
+But always do keep in mind the pixels of your image and the site to keep them
+connected well with each other.
+*/
+/*
+.basic{background-color:blue;
+height:200px;
+width:200px;
+margin-left: 25%;
+margin-top: 2%;
+border: solid 10px;
+padding:20px;}
+.inter{background-color:red;
+height:200px;
+width:200px;
+margin-left: 27.85%;
+border: solid 20px;
+position:relative;
+bottom:250px;
+left:220px;}
+.adv{background-color:green;
+height:200px;
+width:200px;
+margin-left: 61.8%;
+margin-bottom: 2%;
+border:solid 10px;
+position: relative;
+bottom: 480px;}*/
+.h11{font-size: 120px;
+   margin-top: 0;
+   margin-bottom:0;
+ font-family: Sacramento,cursive;}
+ h2{font-family: Montserrat, sans-serif;}
+ p{font-size: 20px;}
+.p1{font-size: 30px;
+  margin-top: 50px;
+font-family: Montserrat, sans-serif;}
+body{margin:0;
+font-family: Merriweather,serif;
+background-color: #B6FFCE}
+/*.pro{text-decoration: underline;}
+.basic{background-color: red;
+  width:100px;
+  height:100px;
+  position: relative;
+display: inline-block;
+left:60px;
+bottom:150px;}
+.inter{background-color: green;
+  width:100px;
+  height:100px;
+  position:absolute;
+display:inline-block;
+left:120px;
+bottom:150px;}*/
+.sh1{color:#357C3C;}
+.c1{position: relative;
+top:5%;
+width:400px;
+padding-bottom: 50px;}
+.c2{position: absolute;
+right: 6%;
+top: 7%;
+display: none;
+width:200px;}
+.c3{position: absolute;
+left: 150px;
+top: 600px;
+width: 200px;}
+.c4{position: absolute;
+right: 150px;
+top: 600px;
+width: 200px}
+.m1{position: relative;
+width:650px;}
+.i1{border-radius: 50%;}
+.middle-container{background-color: #B6FFCE;
+padding: 50px;}
+.startup{height: 170px;
+float: left;
+padding-left: 30px;
+padding-right: 30px;}
+.programming{height: 170px;
+float: left;
+padding-left: 30px;
+padding-right: 30px;}
+.stock{height: 170px;
+float: right;
+padding-left: 30px;
+padding-right: 30px;}
+.nft{height: 170px;
+float: right;
+padding-left: 30px;
+padding-right: 30px;}
+.stage{height:170px;
+float: left;
+padding-left: 30px;
+padding-right: 30px;}
+.bb{height: 170px;
+float: right;
+padding-left: 30px;
+padding-right: 30px;}
+.skill-row{width: 50%;
+margin: 80px auto;
+line-height: 2;
+text-align: left;
+background-color: #93FFD8;}
+hr{border: none;
+border-top: dotted;
+width: 7%;
+border-width: 6px;}
+.contact-me{width:50%;}
+.cp1{line-height: 2;}
+.bottom-container{background-color: #EBD671;
+padding:50px 0 20px;}
+.cr{font-size:14px;}
+.sp1{width:50%;}
+.btn {
+  background: #34b8d9;
+  background-image: -webkit-linear-gradient(top, #34b8d9, #2bafb8);
+  background-image: -moz-linear-gradient(top, #34b8d9, #2bafb8);
+  background-image: -ms-linear-gradient(top, #34b8d9, #2bafb8);
+  background-image: -o-linear-gradient(top, #34b8d9, #2bafb8);
+  background-image: linear-gradient(to bottom, #34b8d9, #2bafb8);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #70c255;
+  background-image: -webkit-linear-gradient(top, #70c255, #c8cca6);
+  background-image: -moz-linear-gradient(top, #70c255, #c8cca6);
+  background-image: -ms-linear-gradient(top, #70c255, #c8cca6);
+  background-image: -o-linear-gradient(top, #70c255, #c8cca6);
+  background-image: linear-gradient(to bottom, #70c255, #c8cca6);
+  text-decoration: none;
+}
+.footer-link{margin: auto 30px;}
+a:hover{color: #E8F9FD;}
